@@ -1,0 +1,39 @@
+th {
+    text-align: left;
+}
+
+aside {
+    align-items: center;
+}
+
+figcaption{
+    text-align: center;
+}
+
+.company-name{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.what-do-we-do-title, .our-team-title{
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.what-do-we-do-images {
+    width: 373.16px;
+    height: 323.7px;
+    left: 215px;
+    top: 1092.3px;
+}
+
+.our-team-images{
+    width: 270px;
+    height: 260px;
+}
