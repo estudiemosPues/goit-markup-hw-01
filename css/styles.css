@@ -1,15 +1,3 @@
-th {
-    text-align: left;
-}
-
-aside {
-    align-items: center;
-}
-
-figcaption{
-    text-align: center;
-}
-
 .company-name{
     font-family: 'Raleway';
     font-style: normal;
@@ -18,12 +6,6 @@ figcaption{
     line-height: 31px;
     letter-spacing: 0.03em;
     color: #2196F3;
-}
-
-.what-do-we-do-title, .our-team-title{
-    font-size: 36px;
-    line-height: 42px;
-    text-align: center;
 }
 
 .what-do-we-do-images {
